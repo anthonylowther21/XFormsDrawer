@@ -1,0 +1,9 @@
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/bin/Debug/XFormsDrawer.dll.mdb
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/bin/Debug/XFormsDrawer.dll
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/obj/Debug/XFormsDrawer.dll
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/obj/Debug/XFormsDrawer.dll.mdb
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/bin/Debug/Xamarin.Forms.Core.dll
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/obj/Debug/XFormsDrawer.MainPage.xaml
+/Users/anthonylowther/Github/XFormsDrawer/XFormsDrawer/obj/Debug/MainPage.xaml.g.cs

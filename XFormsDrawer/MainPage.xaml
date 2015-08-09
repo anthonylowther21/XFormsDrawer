@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XFormsDrawer.MainPage"
+xmlns:local="clr-namespace:XFormsDrawer;assembly=XFormsDrawer">
+	<AbsoluteLayout x:Name="_absoluteLayout">
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="-60, -60, 400, 400" />
+        <local:EllipseView Color="#FFF5A9F2" Opacity="0.4" AbsoluteLayout.LayoutBounds="-40, -40, 360, 360" />
+
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="60, 380, 200, 200" />
+        <local:EllipseView Color="#FFF2F5A9" Opacity="0.4" AbsoluteLayout.LayoutBounds="80, 400, 160, 160" />
+
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="200, 220, 300, 300" />
+        <local:EllipseView Color="#FFBCA9F5" Opacity="0.4" AbsoluteLayout.LayoutBounds="220, 240, 260, 260" />
+
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="200, 360, 400, 400" />
+        <local:EllipseView Color="#FFF781F3" Opacity="0.4" AbsoluteLayout.LayoutBounds="220, 380, 360, 360" />
+
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="-100, 600, 600, 600" />
+        <local:EllipseView Color="#FF81F79F" Opacity="0.4" AbsoluteLayout.LayoutBounds="-80, 620, 560, 560" />
+
+        <local:EllipseView Color="White" Opacity="0.4" AbsoluteLayout.LayoutBounds="360, -40, 200, 200" />
+        <local:EllipseView Color="#FFF2F5A9" Opacity="0.4" AbsoluteLayout.LayoutBounds="380, -20, 160, 160" />
+    </AbsoluteLayout>
+</ContentPage>
